@@ -11,3 +11,8 @@ let undefineddatatype=undefined;
 console.log(typeof scoreValue);
 console.log(typeof nulldata);
 console.log(typeof undefineddatatype);
+/***************************************************
+  Memory=> Stack and Heap
+  Stack(Primitive),Heap(Non-Primitive)
+  
+ */
